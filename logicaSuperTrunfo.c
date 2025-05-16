@@ -135,4 +135,5 @@ if (pontos1 > pontos2) {
 }
 
 return 0;
+
 }
